@@ -6,12 +6,14 @@ Software engineer and team lead with 9+ years of experience building reliable we
 - **Frontend**: TypeScript/JavaScript (Vue.js)
 - **Backend**: Node.js, Python (FastAPI, Flask), Go, Swift (Vapor)
 - **Mobile**: Swift (UIKit/SwiftUI), Dart (Flutter)
-- **Infrastructure**: AWS, Docker, Github Actions, Bitbucket Pipelines, Bitrise
+- **Infrastructure**: AWS, Docker, Terraform, CI/CD (Github Actions, Bitbucket Pipelines, Bitrise)
 
 ### Strengths
 - Turning complex requirements into maintainable systems
 - Improving engineering quality through testing, tooling, and standards
 - Leading teams with a hands-on, pragmatic approach
+
+[Website](https://matthiashofmann.io) | [LinkedIn](https://www.linkedin.com/in/matthias-hofmann/)
 
 ---
 
@@ -24,12 +26,14 @@ Webおよびモバイル向けの、信頼性の高いプロダクト開発に�
 - **フロントエンド**：TypeScript / JavaScript（Vue.js）
 - **バックエンド**：Node.js、Python（FastAPI、Flask）、Go、Swift（Vapor）
 - **モバイル**：Swift（UIKit / SwiftUI）、Dart（Flutter）
-- **インフラ**：AWS、Docker、Github Actions、Bitbucket Pipelines、Bitrise
+- **インフラ**：AWS、Docker、Terraform、CI/CD (Github Actions, Bitbucket Pipelines, Bitrise)
 
 ### 強み
 - 複雑な要件を、保守性の高いシステムに落とし込む力
 - テスト・ツール・開発標準の導入による品質向上
 - 実装も行う、現場志向・実践的なチームリード
+
+[ウェブサイト](https://matthiashofmann.io) | [LinkedIn](https://www.linkedin.com/in/matthias-hofmann/)
 
 <!--
 **matthofmann/matthofmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
