@@ -6,7 +6,7 @@ Software engineer and team lead with 9+ years of experience building reliable we
 - **Frontend**: TypeScript/JavaScript (Vue.js)
 - **Backend**: Node.js, Python (FastAPI, Flask), Go, Swift (Vapor)
 - **Mobile**: Swift (UIKit/SwiftUI), Dart (Flutter)
-- **Infrastructure**: AWS, Docker, CI/CD
+- **Infrastructure**: AWS, Docker, Github Actions, Bitbucket Pipelines, Bitrise
 
 ### Strengths
 - Turning complex requirements into maintainable systems
@@ -24,7 +24,7 @@ Webおよびモバイル向けの、信頼性の高いプロダクト開発に�
 - **フロントエンド**：TypeScript / JavaScript（Vue.js）
 - **バックエンド**：Node.js、Python（FastAPI、Flask）、Go、Swift（Vapor）
 - **モバイル**：Swift（UIKit / SwiftUI）、Dart（Flutter）
-- **インフラ**：AWS、Docker、CI/CD
+- **インフラ**：AWS、Docker、Github Actions、Bitbucket Pipelines、Bitrise
 
 ### 強み
 - 複雑な要件を、保守性の高いシステムに落とし込む力
