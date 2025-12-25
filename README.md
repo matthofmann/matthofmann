@@ -2,50 +2,49 @@
 
 Software engineer and team lead with 9+ years of experience building reliable web and mobile products.
 
-### Core skills
-- **Frontend**: TypeScript/JavaScript (Vue.js)
-- **Backend**: Node.js, Python (FastAPI, Flask), Go, Swift (Vapor)
-- **Mobile**: Swift (UIKit/SwiftUI), Dart (Flutter)
-- **Infrastructure**: AWS, Docker, Terraform, CI/CD (Github Actions, Bitbucket Pipelines, Bitrise)
-
-### Strengths
-- Turning complex requirements into maintainable systems
-- Improving engineering quality through testing, tooling, and standards
-- Leading teams with a hands-on, pragmatic approach
-
 [Website](https://matthiashofmann.io) | [LinkedIn](https://www.linkedin.com/in/matthias-hofmann/)
 
 ---
 
-## はじめまして、Matthiasです 👋
+<details open>
+<summary><strong>🇬🇧 English</strong></summary>
+
+### Core skills
+
+* **Frontend**: TypeScript / JavaScript (Vue.js)
+* **Backend**: Node.js, Python (FastAPI, Flask), Go, Swift (Vapor)
+* **Mobile**: Swift (UIKit / SwiftUI), Dart (Flutter)
+* **Infrastructure**: AWS, Docker, Terraform, CI/CD
+  (GitHub Actions, Bitbucket Pipelines, Bitrise)
+
+### Strengths
+
+* Enjoy turning complex requirements into clear, maintainable systems
+* Strong frontend sensibility with a focus on UI/UX, usability, and performance
+* Raise engineering quality through practical testing, tooling, and shared standards
+* Lead teams hands-on, staying close to both code and people
+
+</details>
+
+<details>
+<summary><strong>🇯🇵 日本語</strong></summary>
 
 9年以上の実務経験を持つソフトウェアエンジニア／チームリード。
 Webおよびモバイル向けの、信頼性の高いプロダクト開発に携わってきました。
 
 ### 主なスキル
-- **フロントエンド**：TypeScript / JavaScript（Vue.js）
-- **バックエンド**：Node.js、Python（FastAPI、Flask）、Go、Swift（Vapor）
-- **モバイル**：Swift（UIKit / SwiftUI）、Dart（Flutter）
-- **インフラ**：AWS、Docker、Terraform、CI/CD (Github Actions, Bitbucket Pipelines, Bitrise)
+
+* **フロントエンド**：TypeScript / JavaScript（Vue.js）
+* **バックエンド**：Node.js、Python（FastAPI、Flask）、Go、Swift（Vapor）
+* **モバイル**：Swift（UIKit / SwiftUI）、Dart（Flutter）
+* **インフラ**：AWS、Docker、Terraform、CI/CD
+  （GitHub Actions、Bitbucket Pipelines、Bitrise）
 
 ### 強み
-- 複雑な要件を、保守性の高いシステムに落とし込む力
-- テスト・ツール・開発標準の導入による品質向上
-- 実装も行う、現場志向・実践的なチームリード
 
-[ウェブサイト](https://matthiashofmann.io) | [LinkedIn](https://www.linkedin.com/in/matthias-hofmann/)
+* 複雑な要件を整理し、分かりやすく保守しやすい設計に落とし込む力
+* UI/UX・使いやすさ・パフォーマンスを意識したフロントエンド設計・実装
+* テストや開発ツール、共通ルールの導入による開発品質の向上
+* 実装とマネジメントの両方に関わる、現場に近いチームリード
 
-<!--
-**matthofmann/matthofmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</details>
