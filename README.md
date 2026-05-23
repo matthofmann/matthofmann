@@ -2,7 +2,7 @@
 
 Software engineer and team lead with 9+ years of experience building reliable web and mobile products.
 
-[Website](https://matthiashofmann.io) | [LinkedIn](https://www.linkedin.com/in/matthias-hofmann/)
+[Website](https://matthias.codes) | [LinkedIn](https://www.linkedin.com/in/matthias-hofmann/)
 
 ---
 
